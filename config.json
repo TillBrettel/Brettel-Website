@@ -238,7 +238,14 @@
   "navbarBorderColor": "#e2e8f0",
   "navbarBorderWidth": 1,
   "navbarBorderStyle": "solid",
-  "navbarCustomTabNames": {},
+  "navbarCustomTabNames": {
+    "freestyle-section-f75ab0fe-be00-4bda-8eb6-564ba9870047": "Home",
+    "freestyle-section-cc702164-2f31-4299-a3e1-74bae0235d24": "Über uns",
+    "freestyle-section-37004cfe-f93b-41b4-914d-2c59142b8a0e": "Familienmitglieder",
+    "freestyle-section-1f5678ea-cd7b-4ece-9ff8-4d1cb600c4c9": "Galerie",
+    "freestyle-section-97275cbf-1c22-4f9e-87d5-862e4f6ad7de": "Reisen",
+    "freestyle-section-5ec2cd42-a88f-42cb-85f1-0c1c269a0afa": "Tills Auslandsjahr"
+  },
   "showSlideshow": true,
   "showServices": true,
   "showTeam": true,
